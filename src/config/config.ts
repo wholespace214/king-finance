@@ -1,4 +1,8 @@
-export const COLORS = {};
+export const COLORS = {
+  black: '#000000',
+  blackAlt: '#272727',
+  white: '#FFFFFF'
+};
 
 export const TEXT_SIZE = {
   sm: '9px',

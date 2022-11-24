@@ -19,7 +19,7 @@
   },
   "plugins": ["react", "prettier", "eslint-plugin", "@typescript-eslint"],
   "rules": {
-    "no-console": 2, // Means error
+    "no-console": "off", // Means error
     "default-case": "error",
     "default-case-last": "error",
     "no-multiple-empty-lines": [
@@ -36,6 +36,7 @@
     "@typescript-eslint/explicit-function-return-type": "off",
     "react/react-in-jsx-scope": "off",
     "react/no-unescaped-entities": "off",
+    "@typescript-eslint/restrict-template-expressions": "off",
     "@typescript-eslint/naming-convention": [
       "error",
       {

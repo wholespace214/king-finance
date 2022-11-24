@@ -3,14 +3,15 @@ import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 
 import { Container } from '../components/container/container';
+// import { Section } from 'src/components/container/section';
 
 import { LogoHeader, MenuKingfloki, MenuKingland, MenuKingpad } from '../config/images';
 import { PUBLIC_ROUTES } from '../config/routes';
 
 export const Header = () => {
   return (
-    <HeaderContainer>
-      <HeaderContent>
+    <Container>
+      {/* <HeaderContent>
         <DesktopLogo src={LogoHeader} alt="logo-header" />
         <ButtonArea>
           <RectButtonGroup>
@@ -26,26 +27,33 @@ export const Header = () => {
             </ButtonGroup>
           </RectButtonGroup>
         </ButtonArea>
-      </HeaderContent>
-    </HeaderContainer>
+      </HeaderContent> */}
+    </Container>
   );
 };
 
-const HeaderContainer = styled.div`
-  max-width: 1160px;
-  width: 100%;
-`;
 const HeaderContent = styled.div`
   display: flex;
   width: 100%;
   justify-content: space-between;
-  height: 100px;
-  align-items: flex-end;
+  position: absolute;
+  top: 0;
   gap: 3rem;
-  padding: 0 20px;
+  z-index: 1;
+
   @media screen and (max-width: 640px) {
     justify-content: center;
     gap: 0;
+  }
+
+  .logo-img {
+    display: block;
+    width: 75px;
+    height: auto;
+
+    @media screen and (max-width: 640px) {
+      display: none;
+    }
   }
 `;
 
@@ -69,6 +77,7 @@ const ButtonArea = styled.div`
     align-items: flex-end;
   }
 `;
+
 const RectButtonGroup = styled.div`
   display: flex;
   align-items: center;
