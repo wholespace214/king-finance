@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 82 47.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-570.68" y1="-476.31" x2="-569.68" y2="-476.31" gradientTransform="translate(9644.54 -20384.7) scale(16.9 -42.85)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe89b"/>
+      <stop offset=".17" stop-color="#fee091"/>
+      <stop offset=".45" stop-color="#fdcd76"/>
+      <stop offset=".82" stop-color="#fbaf4c"/>
+      <stop offset="1" stop-color="#fb9e34"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-570.68" y1="-476.31" x2="-569.68" y2="-476.31" gradientTransform="translate(9710.23 -20384.7) scale(16.9 -42.85)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="-575.8" y1="-473.48" x2="-574.8" y2="-473.48" gradientTransform="translate(13675.67 -22677.13) scale(23.7 -47.94)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="svg2575">
+    <g id="Group_28648" data-name="Group 28648">
+      <g id="Group_28647" data-name="Group 28647">
+        <path id="Path_29864" data-name="Path 29864" class="cls-1" d="M16.9,47.95L3.04,6.08c-.11-.53-.55-.92-1.08-.98h-.76c-.66,0-1.2,.77-1.2,1.73V47.95H16.9Z"/>
+        <path id="Path_29865" data-name="Path 29865" class="cls-3" d="M82,47.94V6.82c0-.95-.54-1.73-1.2-1.73h-.76c-.54,.06-.97,.46-1.08,.99l-13.86,41.87h16.9Z"/>
+        <path id="Path_29866" data-name="Path 29866" class="cls-2" d="M52.86,47.94L42.72,1.37c-.22-.95-1.16-1.54-2.1-1.32-.66,.15-1.17,.66-1.32,1.32l-10.14,46.58h23.7Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

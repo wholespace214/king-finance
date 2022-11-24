@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 93.49 86.42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-747.79" y1="-1838.11" x2="-746.79" y2="-1838.11" gradientTransform="translate(14198.24 -89643.89) scale(18.99 -48.79)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe89b"/>
+      <stop offset=".17" stop-color="#fee091"/>
+      <stop offset=".45" stop-color="#fdcd76"/>
+      <stop offset=".82" stop-color="#fbaf4c"/>
+      <stop offset="1" stop-color="#fb9e34"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="-1838.11" y2="-1838.11" gradientTransform="translate(14271.54 -89643.89) scale(18.99 -48.79)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="-753.14" y1="-1835.33" x2="-752.14" y2="-1835.33" gradientTransform="translate(20084.42 -100016.88) scale(26.62 -54.51)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="svg2575">
+    <g id="footer_logo" data-name="footer logo">
+      <g id="Group_28648" data-name="Group 28648">
+        <g id="Group_28646" data-name="Group 28646">
+          <path id="Path_29860" data-name="Path 29860" class="cls-2" d="M14.73,86.05l-6.47-8.89-2.42,2.51v6.38H1.25v-20.88H5.84v9.13l8.47-9.13h5.55l-8.5,8.86,8.89,12.02h-5.52Z"/>
+          <path id="Path_29861" data-name="Path 29861" class="cls-2" d="M29.2,86.05v-20.88h4.59v20.88h-4.59Z"/>
+          <path id="Path_29862" data-name="Path 29862" class="cls-2" d="M59.63,86.05l-10.11-13.27v13.27h-4.54v-20.88h4.24l9.79,12.86v-12.86h4.53v20.88h-3.9Z"/>
+          <path id="Path_29863" data-name="Path 29863" class="cls-2" d="M84.56,86.42c-6.5,0-10.98-4.56-10.98-10.74v-.06c-.05-5.92,4.71-10.76,10.63-10.8,.11,0,.21,0,.32,0,3-.16,5.95,.87,8.2,2.86l-2.89,3.49c-1.47-1.4-3.43-2.16-5.46-2.12-3.45,.15-6.13,3.05-6,6.5v.06c0,3.82,2.62,6.62,6.32,6.62,1.54,.05,3.05-.39,4.33-1.25v-2.98h-4.62v-3.97h9.07v9.07c-2.48,2.15-5.64,3.32-8.92,3.31h0Z"/>
+        </g>
+        <g id="Group_28647" data-name="Group 28647">
+          <path id="Path_29864" data-name="Path 29864" class="cls-1" d="M18.99,54.51L3.42,6.85c-.12-.6-.61-1.05-1.22-1.12h-.85c-.75,0-1.35,.88-1.35,1.97V54.51H18.99Z"/>
+          <path id="Path_29865" data-name="Path 29865" class="cls-4" d="M92.28,54.51V7.69c0-1.09-.61-1.97-1.35-1.97h-.85c-.61,.07-1.1,.52-1.22,1.12l-15.57,47.66h18.99Z"/>
+          <path id="Path_29866" data-name="Path 29866" class="cls-3" d="M59.46,54.51L48.08,1.56c-.23-1.06-1.27-1.74-2.33-1.51-.76,.16-1.35,.75-1.51,1.51l-11.39,52.95h26.62Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

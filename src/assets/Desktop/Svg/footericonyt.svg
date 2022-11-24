@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 36.6 25.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="36.6" height="25.62"/>
+    </clipPath>
+  </defs>
+  <g id="svg2575">
+    <g id="tootericon_yt" data-name="tootericon yt">
+      <g class="cls-2">
+        <g id="Group_8534" data-name="Group 8534">
+          <path id="Path_24913" data-name="Path 24913" class="cls-3" d="M35.84,4c-.43-1.58-1.66-2.81-3.24-3.24-2.85-.76-14.3-.76-14.3-.76,0,0-11.44,0-14.3,.76-1.58,.43-2.81,1.66-3.24,3.24-.76,2.85-.76,8.81-.76,8.81,0,0,0,5.96,.76,8.81,.43,1.58,1.66,2.81,3.24,3.24,2.86,.76,14.3,.76,14.3,.76,0,0,11.45,0,14.3-.76,1.58-.43,2.81-1.66,3.24-3.24,.76-2.85,.76-8.81,.76-8.81,0,0,0-5.96-.76-8.81M14.64,18.3V7.32l9.51,5.49-9.51,5.49Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

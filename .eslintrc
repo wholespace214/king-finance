@@ -1,0 +1,61 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "extends": [
+    "standard-with-typescript",
+    "prettier",
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module",
+    "project": "./tsconfig.json"
+  },
+  "plugins": ["react", "prettier", "eslint-plugin", "@typescript-eslint"],
+  "rules": {
+    "no-console": 2, // Means error
+    "default-case": "error",
+    "default-case-last": "error",
+    "no-multiple-empty-lines": [
+      "error",
+      {
+        "max": 1,
+        "maxBOF": 0,
+        "maxEOF": 1
+      }
+    ],
+    "no-var": "error",
+    "comma-dangle": ["error", "never"],
+    "linebreak-style": "off",
+    "@typescript-eslint/explicit-function-return-type": "off",
+    "react/react-in-jsx-scope": "off",
+    "react/no-unescaped-entities": "off",
+    "@typescript-eslint/naming-convention": [
+      "error",
+      {
+        "selector": "variable",
+        "types": ["boolean"],
+        "format": ["PascalCase"],
+        "prefix": ["can", "has", "is", "should"]
+      }
+    ],
+    "import/extensions": [
+      "error",
+      "never",
+      {
+        "css": "always",
+        "json": "always",
+        "scss": "always"
+      }
+    ],
+    "import/no-extraneous-dependencies": "off",
+    "@typescript-eslint/no-floating-promises": "off",
+    "@typescript-eslint/strict-boolean-expressions": "warn"
+  }
+}

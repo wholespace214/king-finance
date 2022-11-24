@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36.7 20.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="svg2575">
+    <g id="footericon_medium" data-name="footericon medium">
+      <path id="Path_29891" data-name="Path 29891" class="cls-1" d="M20.7,10.42c-.04,5.72-4.7,10.32-10.42,10.28C4.56,20.66-.04,16,0,10.28,.04,4.59,4.66,0,10.35,0c5.74,.02,10.37,4.68,10.35,10.42h0"/>
+      <path id="Path_29892" data-name="Path 29892" class="cls-1" d="M32.05,10.42c0,5.42-2.32,9.81-5.17,9.81s-5.17-4.39-5.17-9.81S24.02,.61,26.88,.61s5.17,4.39,5.17,9.81"/>
+      <path id="Path_29893" data-name="Path 29893" class="cls-1" d="M36.7,10.42c0,4.85-.82,8.79-1.82,8.79s-1.82-3.94-1.82-8.79,.82-8.79,1.82-8.79,1.82,3.93,1.82,8.79"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 101.25 104.24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #64edac;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-748.92" y1="-1423.91" x2="-748.92" y2="-1425.14" gradientTransform="translate(56227.71 -18317.66) scale(75.01 -12.91)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe89b"/>
+      <stop offset=".17" stop-color="#fee091"/>
+      <stop offset=".45" stop-color="#fdcd76"/>
+      <stop offset=".82" stop-color="#fbaf4c"/>
+      <stop offset="1" stop-color="#fb9e34"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-749.33" y1="-1323.59" x2="-749.32" y2="-1324.34" gradientTransform="translate(75924.19 -86851.06) scale(101.25 -65.62)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="svg2575">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Group_29782" data-name="Group 29782">
+        <path id="Rectangle_8876" data-name="Rectangle 8876" class="cls-1" d="M19.58,70.08h62.1c3.56,0,6.46,2.89,6.46,6.45h0c0,3.56-2.89,6.45-6.46,6.45H19.58c-3.56,0-6.45-2.89-6.45-6.45h0c0-3.56,2.89-6.45,6.45-6.45Z"/>
+        <path id="Path_30329" data-name="Path 30329" class="cls-3" d="M96.92,21.87l-15.32,10.03c-1.14,.82-2.7,.64-3.64-.4L52.67,.91c-1.01-1.13-2.73-1.23-3.86-.22-.08,.07-.15,.14-.22,.22L23.28,31.5c-.93,1.04-2.5,1.22-3.64,.4L4.33,21.87c-1.23-.88-2.94-.6-3.82,.63-.47,.66-.63,1.49-.43,2.27L14.53,63.57c.31,1.21,1.4,2.05,2.65,2.05h16.97c-.35-.63-.57-1.32-.64-2.03l-1.58-14.47c-.13-1.39,.3-2.77,1.2-3.84l13.54-16.08c1.85-2.2,5.13-2.48,7.33-.63,.23,.19,.44,.4,.63,.63l13.54,16.09c.9,1.07,1.33,2.45,1.2,3.84l-1.58,14.47c-.07,.71-.29,1.41-.64,2.03h16.94c1.25,0,2.34-.84,2.65-2.05l14.44-38.8c.38-1.46-.51-2.95-1.97-3.33-.78-.2-1.62-.04-2.28,.43h0Z"/>
+        <g id="Group_29781" data-name="Group 29781">
+          <path id="Path_30330" data-name="Path 30330" class="cls-2" d="M51.74,52h10.67l.14-1.32c.11-1.03-.2-2.06-.87-2.86l-8.16-9.69c-.47-.56-1.09-.97-1.79-1.18v15.05Z"/>
+          <path id="Path_30331" data-name="Path 30331" class="cls-2" d="M38.84,52h10.67v-15.05c-.7,.21-1.32,.62-1.79,1.18l-8.16,9.69c-.67,.79-.98,1.83-.87,2.86l.14,1.32Z"/>
+          <path id="Path_30332" data-name="Path 30332" class="cls-2" d="M49.51,54.22h-10.43l.45,4.12c.21,1.93,1.84,3.38,3.77,3.39h6.21v-7.5Z"/>
+          <path id="Path_30333" data-name="Path 30333" class="cls-2" d="M51.74,54.22v7.5h6.21c1.94,0,3.56-1.46,3.78-3.39l.45-4.12h-10.43Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

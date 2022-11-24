@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33.11 18.68">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="svg2575">
+    <g id="Group_29856" data-name="Group 29856">
+      <path id="Path_29891" data-name="Path 29891" class="cls-1" d="M18.68,9.4c-.03,5.16-4.24,9.31-9.4,9.28C4.12,18.64-.03,14.44,0,9.28,.03,4.14,4.2,0,9.34,0c5.17,.02,9.35,4.23,9.34,9.4"/>
+      <path id="Path_29892" data-name="Path 29892" class="cls-1" d="M28.92,9.4c0,4.89-2.09,8.85-4.67,8.85s-4.67-3.96-4.67-8.85S21.67,.55,24.25,.55s4.67,3.96,4.67,8.85"/>
+      <path id="Path_29893" data-name="Path 29893" class="cls-1" d="M33.11,9.4c0,4.38-.73,7.93-1.64,7.93s-1.65-3.55-1.65-7.93,.73-7.93,1.64-7.93,1.64,3.55,1.64,7.93"/>
+    </g>
+  </g>
+</svg>

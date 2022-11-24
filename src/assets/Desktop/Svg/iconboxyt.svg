@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 33.03 23.12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="0" width="33.03" height="23.12"/>
+    </clipPath>
+  </defs>
+  <g id="svg2575">
+    <g id="icon_yt" data-name="icon yt">
+      <g class="cls-2">
+        <g id="Group_8534" data-name="Group 8534">
+          <path id="Path_24913" data-name="Path 24913" class="cls-3" d="M32.34,3.61c-.38-1.42-1.5-2.54-2.92-2.92-2.57-.69-12.9-.69-12.9-.69,0,0-10.32,0-12.9,.69-1.42,.38-2.54,1.5-2.92,2.92C.21,6.23-.02,8.89,0,11.56c-.02,2.67,.21,5.33,.69,7.95,.38,1.42,1.5,2.54,2.92,2.92,2.58,.69,12.9,.69,12.9,.69,0,0,10.33,0,12.9-.69,1.42-.38,2.54-1.5,2.92-2.92,.47-2.62,.71-5.28,.69-7.95,.02-2.67-.21-5.33-.69-7.95M13.21,16.51V6.6l8.58,4.96-8.58,4.96Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
